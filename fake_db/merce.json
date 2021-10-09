@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "marcella@gmail.com",
+      "password": "password",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "david@gmail.com",
+      "password": "password",
+      "role": "user"
+    },
+    {
+      "email": "zendaya@mail.com",
+      "password": "123",
+      "role": "user",
+      "id": 3
+    }
+  ]
+}
